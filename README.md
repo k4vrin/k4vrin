@@ -5,6 +5,7 @@ val kavrin = developer {
     }
     links {
         linkedIn = "@kavrin"
+        medium = "@kavrindev"
     }
 }
 
